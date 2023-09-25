@@ -1,3 +1,3 @@
 # ESTRUTURA-DE-DADOS
-Atividade Manipulção de Arquivos
+Repositório criado para a matéria Estrutura de Dados da Universidade Católica.
 
